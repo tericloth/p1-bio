@@ -1,4 +1,25 @@
 /* Your Website Styles */
+body {
+	background: url("../img/bg.png");#77BB9C;
+}
+
+
+h1 {
+	font-family: 'Libre Baskerville', serif;
+	color: #4FB4E3
+	font-style:italic;
+
+	background: red;
+	padding: 20px;
+	border: 10px double;
+	width: 300px
+	margin:10px;
+}
+
+p {
+	line-height: 36px,
+
+}
 
 
 /* Show Grid */
