@@ -16,12 +16,30 @@ h1 {
 	margin:10px;
 }
 
-p {
-	line-height: 36px,
 
+
+
+
+h3 {
+	color: red;
 }
 
+#name{
+	color: orange;
+}
+#leadin {
+	color: blue;
+	background: teal;
+}
 
+.subhead {
+	font-style:italic;
+	margin-left: 30px;
+}
+
+p {
+	line-height: 36px,
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
