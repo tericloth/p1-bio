@@ -4,6 +4,7 @@
 body {
 	background: url("../img/bg.png");#77BB9C;
   	font-family: 'Playfair Display', sans-serif;
+    color: #DAA520;
   	
     #wrapper {
  	max-width: 940px;
@@ -25,17 +26,17 @@ img {
 
 h2 {
   font-family: 'Playfair Display', sans-serif;
-  color: purple;
+  color: #F0F8FF;
   padding: 10 0 10% 0;
     margin: 0 0 1em 0;
-    box-shadow: 10px 10px 5px #BA55D3;
+    box-shadow: 10px 10px 5px #F5F5F5;
 }
 
 h3 {
   font-family: 'Playfair Display', sans-serif;
-  color: purple;
+  color: #F0F8FF;
   margin: 0 0 1em 0;
-  box-shadow: 10px 10px 5px #BA55D3;
+  box-shadow: 10px 10px 5px #F5F5F5;
 }
 
 
@@ -55,7 +56,7 @@ header {
 
 h1 {
   font-family: 'Playfair Display', sans-serif;
-  color: purple;
+  color: #F0F8FF;
   margin: 25px 10 50 10;
   font-size: 1.75em;
   font-weight: normal;
